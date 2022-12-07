@@ -1,0 +1,10 @@
+*{
+  margin:0;
+  padding:0;
+}
+
+
+
+.table-row:hover .delete-crypto{
+  display: block;
+}
